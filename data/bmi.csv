@@ -1,0 +1,7 @@
+BMI Category,BMI Range (kg/m2),Health risk
+Underweight, 0-18.4, Malnutrition risk
+Normal weight ,18.5 - 24.9, Low risk
+Overweight,25 - 29.9 ,Enhanced risk
+Moderately obese, 30 - 34.9 ,Medium risk
+Severely obese,35 - 39.9,  High risk
+Very severely obese,40,Very high risk
